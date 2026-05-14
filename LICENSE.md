@@ -1,4 +1,4 @@
-# 
+# Polymarket automatic Strategy: prediction-market-scanning & event-driven-trading offers the most advanced Polymarket strategy, with prediction-market-scanning and
 
 
 
